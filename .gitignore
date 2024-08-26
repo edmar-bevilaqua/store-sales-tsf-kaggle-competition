@@ -2,3 +2,4 @@
 .env
 /data
 submission.csv
+*.csv
